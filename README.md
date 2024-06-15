@@ -38,7 +38,8 @@ The application will present a sorted list of cards drawn from the deck.
 - The deck is automatically shuffled using the Fisher-Yates method upon initialization of the deck. Although you can opt to shuffle it later using shuffle method.
 - Comprehensive error handling ensures the integrity of deck operations and card availability.
 <br>
-#### Sample Output <br>
+#### Sample Output 
+
 ```
 Ace of Hearts
 Two of Hearts
@@ -60,4 +61,4 @@ Ten of Clubs
 Jack of Clubs
 Queen of Clubs
 King of Clubs
-```
+
