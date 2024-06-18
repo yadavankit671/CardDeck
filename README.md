@@ -28,7 +28,9 @@ javac App.java Deck.java Card.java
 **Execution**<br>
 Run the compiled App class to start the program:
 
->CardDeck.jar
+```
+java App
+```
 
 The application will present a sorted list of cards drawn from the deck.
 
